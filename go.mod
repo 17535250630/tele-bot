@@ -1,4 +1,5 @@
-module tele-bot
+module github.com/17535250630/tele-bot
+
 
 go 1.22
 
