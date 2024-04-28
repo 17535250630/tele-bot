@@ -1,9 +1,8 @@
 package main
 
 import (
-	controller "tele-bot"
-	"tele-bot/pub"
-
+	controller "github.com/17535250630/tele-bot"
+	"github.com/17535250630/tele-bot/pub"
 	tele "gopkg.in/telebot.v3"
 )
 

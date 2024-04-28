@@ -1,9 +1,9 @@
 package controller
 
 import (
-	"tele-bot/pub"
 	"time"
 
+	"github.com/17535250630/tele-bot/pub"
 	mapset "github.com/deckarep/golang-set/v2"
 	tele "gopkg.in/telebot.v3"
 	"gopkg.in/telebot.v3/middleware"
